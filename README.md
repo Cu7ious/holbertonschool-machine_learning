@@ -1,1 +1,1 @@
-# 0x00. Linear Algebra
+# AI / DL / ML - Holberton 2nd year specialization
